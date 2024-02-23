@@ -25,26 +25,6 @@ public class Main {
         System.out.println("Geben Sie Chemienote ein:");
         Integer Chemienote = new Integer(display2.nextLine());
 
-        System.out.println(" Notendurchschnitt ist : " + (Mathenote+Physiknote+Chemienote)/3);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        System.out.println(" Notendurchschnitt ist : " + (Mathenote+Physiknote+Chemienote)/3)
     }
 }
